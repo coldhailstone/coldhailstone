@@ -12,4 +12,6 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=coldhailstone&theme=monokai&border_radius=4&locale=ko&card_width=600)](https://git.io/streak-stats)
 
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksn1993)](https://solved.ac/cksn1993)
+
 </div>

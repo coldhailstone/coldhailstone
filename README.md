@@ -8,7 +8,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldhailstone&layout=compact&theme=dracula)](https://github.com/metleeha)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldhailstone&show_icons=true&theme=algolia)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldhailstone&show_icons=true&theme=dracula)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=coldhailstone&theme=monokai&border_radius=4&locale=ko&card_width=600)](https://git.io/streak-stats)
 

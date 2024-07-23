@@ -4,7 +4,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=찬우박's%20GitHub&fontAlign=50&fontAlignY=41&descAlign=50)
   
-  [[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)]
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=5F47F7&width=435&lines=Developer;Today+I+Learned)](https://git.io/typing-svg)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldhailstone&layout=compact&theme=dracula)](https://github.com/metleeha)
   

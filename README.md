@@ -10,6 +10,6 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldhailstone&show_icons=true&theme=algolia)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coldhailstone&theme=monokai&border_radius=4&locale=ko)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coldhailstone&theme=monokai&border_radius=4&locale=ko&card_width=600)](https://git.io/streak-stats)
 
 </div>
